@@ -1,3 +1,0 @@
-[phases.setup]
-  nixPkgs = ['...', 'gcc', 'python311']
-  aptPkgs = ['build-essential', 'glibc-source']
