@@ -1,14 +1,4 @@
 
----
-title: Directus
-description: A one-click-install Directus instance using PostgreSQL. Always install lastest version know of Directus.
-tags:
-  - javascript
-  - directus
-  - cms
-  - postgreSQL
---- 
-
 # ⚠️ This repository has been archived, the Railway template now uses a docker image. ⚠️
 
 ## Directus railway template
