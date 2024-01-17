@@ -7,7 +7,7 @@ tags:
   - directus
   - cms
   - postgreSQL
----
+--- 
 
 # ⚠️ This repository has been archived, the Railway template now uses a docker image. ⚠️
 
